@@ -667,17 +667,6 @@ F 3 "~" H 2400 2600 50  0001 C CNN
 	1    2400 2600
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:R R20
-U 1 1 60963EEC
-P 7250 2500
-F 0 "R20" V 7043 2500 50  0000 C CNN
-F 1 "10r" V 7134 2500 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7180 2500 50  0001 C CNN
-F 3 "" H 7250 2500 50  0001 C CNN
-	1    7250 2500
-	0    1    -1   0   
-$EndComp
 Wire Wire Line
 	5550 2400 5600 2400
 Connection ~ 5600 2400
@@ -693,34 +682,8 @@ Wire Wire Line
 	2200 2700 2200 3100
 Wire Wire Line
 	5600 2400 6300 2400
-$Comp
-L Device:L_Small L1
-U 1 1 609BF0F1
-P 7250 2400
-F 0 "L1" H 7297 2446 50  0000 L CNN
-F 1 "L_Small" H 7297 2355 50  0000 L CNN
-F 2 "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P10.16mm_Horizontal_Vishay_IM-1" H 7250 2400 50  0001 C CNN
-F 3 "~" H 7250 2400 50  0001 C CNN
-	1    7250 2400
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	7350 2400 7400 2400
-Wire Wire Line
-	7400 2400 7400 2500
 Wire Wire Line
 	6900 2400 6900 2650
-Wire Wire Line
-	7100 2400 7100 2500
-Wire Wire Line
-	7150 2400 7100 2400
-Connection ~ 6900 2400
-Connection ~ 7100 2400
-Wire Wire Line
-	7100 2400 6900 2400
-Connection ~ 7400 2400
-Wire Wire Line
-	7400 2400 7650 2400
 Wire Wire Line
 	6900 3250 8050 3250
 Wire Wire Line
@@ -761,4 +724,43 @@ Wire Wire Line
 	2500 2900 3500 2900
 Wire Wire Line
 	2200 2000 2500 2000
+Wire Wire Line
+	6900 2400 7650 2400
+Connection ~ 6900 2400
+Wire Wire Line
+	8350 2000 8600 2000
+Wire Wire Line
+	8350 2000 8350 2100
+Connection ~ 8350 2000
+Wire Wire Line
+	8300 2000 8350 2000
+Wire Wire Line
+	8050 2000 7850 2000
+Wire Wire Line
+	8050 2000 8050 2100
+Connection ~ 8050 2000
+Wire Wire Line
+	8100 2000 8050 2000
+$Comp
+L Device:L_Small L1
+U 1 1 65D2AEB4
+P 8200 2000
+F 0 "L1" H 8247 2046 50  0000 L CNN
+F 1 "L_Small" H 8247 1955 50  0000 L CNN
+F 2 "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P10.16mm_Horizontal_Vishay_IM-1" H 8200 2000 50  0001 C CNN
+F 3 "~" H 8200 2000 50  0001 C CNN
+	1    8200 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R16
+U 1 1 65D2AEBB
+P 8200 2100
+F 0 "R16" V 7993 2100 50  0000 C CNN
+F 1 "10r" V 8084 2100 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 8130 2100 50  0001 C CNN
+F 3 "" H 8200 2100 50  0001 C CNN
+	1    8200 2100
+	0    1    -1   0   
+$EndComp
 $EndSCHEMATC
