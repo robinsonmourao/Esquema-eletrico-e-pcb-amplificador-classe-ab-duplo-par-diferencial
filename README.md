@@ -6,7 +6,7 @@
 ### ORIGINAL
 ![img_1.png](img_1.png)
 ### INVERTIDO HORIZONTALMENTE
-![img_2.png](img_2.png)
+![img_2.png](img_2.png) 
 
 
 ## MODELO FÍSICO
