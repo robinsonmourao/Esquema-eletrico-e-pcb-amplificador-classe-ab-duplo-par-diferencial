@@ -1,12 +1,12 @@
 # 3.0_3.1 Beta
 ## SCHEME
-![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/ae5e9d4f-376b-40ba-b1af-8591bf5e1048)
+![img.png](img.png)
 
 ## PCB
 ### ORIGINAL
-![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/430001e4-2cf3-420a-b2d5-c95e63b2f4dd)
+![img_1.png](img_1.png)
 ### INVERTIDO HORIZONTALMENTE
-![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/db8d3116-b89f-4a44-837b-e0829064a71d)
+![img_2.png](img_2.png)
 
 
 ## MODELO FÍSICO
