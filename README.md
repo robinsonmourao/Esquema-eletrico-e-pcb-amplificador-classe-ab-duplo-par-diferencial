@@ -1,4 +1,4 @@
-# 3.0_3.1 Beta
+# 3.0 beta
 ## SCHEME
 ![img.png](img.png)
 
@@ -11,18 +11,14 @@
 
 ## MODELO FÍSICO
 ### SUPERIOR
-`versão não funcionou`3.1
+`versão não funcionou`
 ![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/e612de79-5c44-4e6e-85cb-272185aaece6)
-`versão não funcionou`3.0
-![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/4f658415-0e24-411f-9cdd-57e0695a1d3b)
+
 ### INFERIOR
-`versão não funcionou`3.1
+`versão não funcionou`
 ![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/ed6acb4c-ea09-4459-b0ff-0f9d373b838d)
-`versão não funcionou`3.0
-![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/0e240a1f-5443-4c54-98ca-5c214eee2ec4)
 
-
-# 2.0
+# 2.0-2.1 beta
 ## SCHEME
 ![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/ebb6260e-ead8-481c-93a1-565f8e1224f5)
 
@@ -33,9 +29,15 @@
 ![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/16650c18-8706-46e4-88be-aed9a8b3665d)
 
 ## MODELO FÍSICO
-### SUPERIOR
+### SUPERIOR 2.1 beta
+`versão não funcionou`
+![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/4f658415-0e24-411f-9cdd-57e0695a1d3b)
+### SUPERIOR 2.0
 ![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/a75e007b-b757-4d72-97fa-a17ad19e1185)
-### INFERIOR
+### INFERIOR 2.1 beta
+`versão não funcionou`
+![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/0e240a1f-5443-4c54-98ca-5c214eee2ec4)
+### INFERIOR 2.0
 ![image](https://github.com/robinsonmourao/Esquema-eletrico-e-pcb-amplificador-classe-ab-duplo-par-diferencial/assets/49078615/d22c9fb6-e12d-4d64-a49b-22e36a6f380d)
 
 # 1.0
